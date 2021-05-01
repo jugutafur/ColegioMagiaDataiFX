@@ -1,0 +1,16 @@
+C:\Users\juan\Desktop\dataiFX\bin\Debug\net5.0\dataiFX.exe
+C:\Users\juan\Desktop\dataiFX\bin\Debug\net5.0\dataiFX.deps.json
+C:\Users\juan\Desktop\dataiFX\bin\Debug\net5.0\dataiFX.runtimeconfig.json
+C:\Users\juan\Desktop\dataiFX\bin\Debug\net5.0\dataiFX.runtimeconfig.dev.json
+C:\Users\juan\Desktop\dataiFX\bin\Debug\net5.0\dataiFX.dll
+C:\Users\juan\Desktop\dataiFX\bin\Debug\net5.0\ref\dataiFX.dll
+C:\Users\juan\Desktop\dataiFX\bin\Debug\net5.0\dataiFX.pdb
+C:\Users\juan\Desktop\dataiFX\obj\Debug\net5.0\dataiFX.csprojAssemblyReference.cache
+C:\Users\juan\Desktop\dataiFX\obj\Debug\net5.0\dataiFX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\Desktop\dataiFX\obj\Debug\net5.0\dataiFX.AssemblyInfoInputs.cache
+C:\Users\juan\Desktop\dataiFX\obj\Debug\net5.0\dataiFX.AssemblyInfo.cs
+C:\Users\juan\Desktop\dataiFX\obj\Debug\net5.0\dataiFX.csproj.CoreCompileInputs.cache
+C:\Users\juan\Desktop\dataiFX\obj\Debug\net5.0\dataiFX.dll
+C:\Users\juan\Desktop\dataiFX\obj\Debug\net5.0\ref\dataiFX.dll
+C:\Users\juan\Desktop\dataiFX\obj\Debug\net5.0\dataiFX.pdb
+C:\Users\juan\Desktop\dataiFX\obj\Debug\net5.0\dataiFX.genruntimeconfig.cache
